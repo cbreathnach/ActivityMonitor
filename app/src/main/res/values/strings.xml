@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Monitor</string>
+    <string name="title_activity_maps">Locations Map</string>
+    <string name="button_2_text">Step History</string>
+    <string name="button_1_text">Map</string>
+    <string name="step_count_default">Last Recorded Step Count: 0</string>
+    <string name="time_and_date">Time and Date</string>
+    <string name="reset_step_count">Reset Step Count</string>
+    <string name="steps">Steps</string>
+</resources>

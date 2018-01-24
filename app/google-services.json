@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108862545787",
+    "firebase_url": "https://activitymonitor-nuig.firebaseio.com",
+    "project_id": "activitymonitor-nuig",
+    "storage_bucket": "activitymonitor-nuig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108862545787:android:208dc774f039d371",
+        "android_client_info": {
+          "package_name": "cathalbreathnach.activitymonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108862545787-0e3ac6eglidep60e7o68ukretiv2uug9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgEo2AxJedfu3s4nMI8Exko66Vc15Qjl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
